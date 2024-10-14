@@ -1,0 +1,1 @@
+This assignment has three parts. Part 1 is on Hash function and Chaining. Part 2 is on Linear probing. Part 3 is a real-world application of Hash tables.
