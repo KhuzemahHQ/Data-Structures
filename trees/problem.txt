@@ -1,0 +1,4 @@
+In this assignment, you will:
+• Practice implementation of general BSTs and AVL Trees (i.e., self-balancing BSTs)
+• Perform various operations on general BSTs and AVL Trees
+• Practice how Trees can be used in real-world scenarios
