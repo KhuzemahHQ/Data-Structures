@@ -1,0 +1,16 @@
+You have been hired by a new company called 4Run. 4Run delivers packages
+from one warehouse to the other. You are hired to make sure that all packages
+are delivered the most efficient way and running costs are reduced. The
+company is being operated in an underdeveloped area where road connectivity
+is low.
+Warehouses are connected by roads. Whenever there is a package to be
+delivered, you have to take into account which will be the shortest path from
+one warehouse to the other. Thanks to all the Data Structures you’ve been
+studying you know how to design a system that takes in the locations and their
+connections (path), and outputs the best possible way to deliver these
+packages 4Run :)
+In this assignment you are given one file Graph.py that contains 5 functions.
+Throughout each task you will be implementing the functions on the same file
+and testing your code. Throughout the assignment you can create helper
+functions as you deem fit. You are NOT allowed to use external libraries to
+implement your graph algorithms.
