@@ -1,0 +1,6 @@
+In this assignment, you will:
+● Practice implementation of two of the most important sorting algorithms:
+merge and insertion sort
+● Create binary min-heap
+● Apply the concepts of min-heap to a practical scenario and practice coding
+priority queues
